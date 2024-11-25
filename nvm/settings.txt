@@ -1,0 +1,2 @@
+root: C:\Users\valor\Documents\caas\amplify-caas\nvm
+path: C:\Program Files\nodejs
